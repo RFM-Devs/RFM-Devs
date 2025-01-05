@@ -28,9 +28,9 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=databricks,pyspark,python,azure,github,azure data factory,azure fabricks,snowflake,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=databricks,pyspark,python,azure,github,snowflake,xd&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RFM-Devs&show_icons=true&theme=dark)
+![Farhan Majeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=RFM-Devs&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFM-Devs&theme=dark)
 
