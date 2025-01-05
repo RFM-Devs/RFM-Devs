@@ -28,7 +28,18 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=databricks,pyspark,python,azure,github,snowflake,xd&perline=5)](https://skillicons.dev)
+### My Skills
+
+[![Databricks](https://img.shields.io/badge/Databricks-EF2D5E?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![PySpark](https://img.shields.io/badge/PySpark-FFE873?style=for-the-badge&logo=apache-spark&logoColor=black)](https://spark.apache.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/products/data-factory/)
+[![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-F4772B?style=for-the-badge&logo=databricks&logoColor=white)](https://azure.microsoft.com/en-us/products/databricks/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html)
+
 
 ![Farhan Majeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=RFM-Devs&show_icons=true&theme=dark)
 
