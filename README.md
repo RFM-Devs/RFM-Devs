@@ -1,17 +1,18 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Farhan Majeed</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 🔭 I’m a Data Engineer
+- 🌱 I’m currently working Databricks using PySpark
+- ⭐️ I'm working consistently to broaden my skills 
+- 💬 Ask me anything about PySpark and Databricks 
+- 📫 How to reach me: ranafarhan.majeed@outlook.com
+- 😄 My website: _'coming soon'_
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/axiftaj">
+  <a href="https://github.com/RFM-Devs">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
+<!--   </a>
   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -23,7 +24,7 @@
   </a>
    <a href="https://twitter.com/axiftaj">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 ### Languages and Tools:
@@ -35,4 +36,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [RFM-Devs](https://github.com/RFM-Devs)
